@@ -21,7 +21,7 @@ promote teddy bear products with a warm and user-friendly interface🧸
 - CSS
 
 *Live Demo:*  
-(https://alaa-12612.github.io/codsoft_taskno/task2/index.html)
+(https://alaa-12612.github.io/codsoft_taskno2/)
 ---
 
 ## Contact
